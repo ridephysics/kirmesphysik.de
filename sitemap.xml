@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kirmesphysik.de/rides/</loc>
+    <lastmod>2020-03-21T09:01:24+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ridephysics.com/rides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kirmesphysik.de/rides/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kirmesphysik.de/</loc>
+    <lastmod>2020-03-21T09:01:24+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ridephysics.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kirmesphysik.de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kirmesphysik.de/rides/the-real-nessy/</loc>
+    <lastmod>2020-03-21T09:01:24+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ridephysics.com/rides/the-real-nessy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kirmesphysik.de/rides/the-real-nessy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kirmesphysik.de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ridephysics.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kirmesphysik.de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kirmesphysik.de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ridephysics.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kirmesphysik.de/tags/"
+                />
+  </url>
+  
+</urlset>
